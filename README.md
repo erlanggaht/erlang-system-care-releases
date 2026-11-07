@@ -68,3 +68,4 @@ Sharing the application with others also helps!
 - [Source code — GitLab](https://gitlab.com/erlanggaht93/erlang-control-panel-electron)
 - [Personal blog](https://erlanggaht.com)
 - [GitHub profile](https://github.com/erlanggaht)
+- [Microsoft Store](https://apps.microsoft.com/detail/9PPCM1THT27M?hl=en-us&gl=ID&ocid=pdpshare) 
